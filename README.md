@@ -4,7 +4,7 @@
 
 > Besides enumerating the topics related to Machine Learning and Statistical Modeling, I
 am currently building an [interactive graph](https://leandromineti.github.io/ml-curriculum/) 
-to illustrate its relations. A the end of the page you can find a list of **free**
+to illustrate its relations. At the end of the page you can find a list of **free**
 online resources covering the subjects.
 
 ## Curriculum 
