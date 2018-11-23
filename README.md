@@ -1,78 +1,71 @@
 # Machine Learning Curriculum
 
+![](cover.png)
+
+> Besides enumerating the topics related to Machine Learning and Statistical Modeling, I
+am currently building an [interactive graph](https://leandromineti.github.io/ml-curriculum/) 
+to illustrate its relations. A the end of the page you can find a list of **free**
+online resources covering the subjects.
 
 ## Curriculum 
 
-Mathematics
-
 - Set theory
-- Graph theory
 - Linear Algebra
     - Matrix transformation
     - Eigenstuff
     - Matrix decomposition
+        - Singular Value Decomposition
 - Calculus
-    - Limits
-    - Derivatives
-    - Integrals
-
-Probability
-
-- Sample Space
-    - Relative frequency
-    - Counting methods
-- Conditional probability
-- Bayes' Theorem
-- Random Variables
-    - Expected value
-    - Variance
-- Distributions
-    - Joint
-    - Marginal
-    - Conditional
-- Sampling and Central Limit Theorem
-- Monte Carlo
-
-Statistics
-
-- Inference (frequentist and bayesian)
-    - Regularization
-    - Hoeffding's inequality
-- Maximum Likelihood
-- Hypothesis testing
-- Regression
-- Generalized Linear Models
-- Stochastic Process
-- Markov Chain
-- MCMC
-- PGM
-    - Bayesian Networks
-    - Hidden Markov Models
-
-Information Theory
-
-- Entropy
-- Kullback–Leibler divergence
-
-Optimization
-
-- Types: linear and non-linear, convex and non-convex.
-- Expectation Maximization
-    - Variational Bayes
-- Gradient Descent
-    - Stochastic Gradient Descent
-    - Momentum
-    - Adam
-- Evolutionary computing
-
-Machine Learning
-
-- Generalization Theory
-- VC Dimension
-- Trees
-- Support Vector Machines
-- Neural Networks
-- Deep Learning
+- Optimization
+    - Gradient descent
+    - Expectation Maximization
+- Probability
+    - Sample Space
+    - Sampling
+    - Resampling
+        - Jacknife
+        - Bootstrap
+    - Relative frequency and probability
+    - Conditional probability
+    - Bayes' Theorem
+    - Random Variables and its distributions
+    - Random Field
+- Statistics
+    - Sampling distribution
+    - Central Limit Theorem
+    - Likelihood function
+    - Inference
+        - Hypothesis testing
+        - Regression
+            - Generalized Linear Models
+    - Bayesian Inference
+    - Monte Carlo method
+    - Markov Chain
+    - MCMC
+    - Probabilistic Graphical Models
+        - Bayesian Networks
+        - Markov Random Field
+    - Nonparametric inference
+        - Additive models
+            - Generalized additive models
+- Information Theory
+    - Entropy
+    - Kullback–Leibler divergence
+    - Signal processing
+        - Kalman filter
+- Machine Learning
+    - k-NN
+    - Support Vector Machines
+    - Decision trees
+        - Random Forest
+    - Ensemble
+        - Bagging
+        - Boosting
+    - Neural Networks
+        - Backpropagation
+        - Feedforward networks
+        - Recurrent networks
+        - Autoencoders
 
 ## **Free** resources and references
 
