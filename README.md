@@ -1,4 +1,4 @@
-# Machine Learning Curriculum
+# Machine Learning Knowledge Graph
 
 ![](cover.png)
 
