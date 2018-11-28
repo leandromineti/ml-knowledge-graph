@@ -104,19 +104,15 @@ online resources covering the subjects.
         - Kernel density estimation
 - Machine Learning
     - Statistical Learning Theory
-        - Bias-variance trade-off
-        - Vapnik-Chervonenkis Dimension
+        - Vapnik-Chervonenkis theory
         - Regularization
             - LASSO
             - Ridge
             - Elastic Net
-        - Model evaluation
-            - Cross-validation
-            - ROC Curve
-                - AUC
-                - Recall, precision, F1 Score.
         - Hyperparameter optimization
->>>>>>> a9bc9f9ab0764cbe901c39c1622e88bc38b76b75
+    - Cross-validation
+        - Hyperparameter optimization
+        - Automated Machine Learning
     - k-NN
     - Support Vector Machines
         - Kernel trick
@@ -135,7 +131,6 @@ online resources covering the subjects.
             - Autoencoder
         - Recurrent networks
             - LSTM
-            - 
         - Autoencoders
 - Information Theory
     - Entropy
