@@ -81,6 +81,8 @@ online resources covering the subjects.
 - Machine Learning
     - Statistical Learning Theory
         - Vapnik-Chervonenkis theory
+        - Hypothesis set
+            - No free lunch theorem 
         - Regularization
             - LASSO
             - Ridge
