@@ -87,7 +87,6 @@ online resources covering the subjects.
             - LASSO
             - Ridge
             - Elastic Net
-        - Hyperparameter optimization
     - Cross-validation
         - Hyperparameter optimization
         - Automated Machine Learning
