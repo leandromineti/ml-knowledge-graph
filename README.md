@@ -15,10 +15,14 @@ online resources covering the subjects.
     - Eigenstuff
     - Matrix decomposition
         - Singular Value Decomposition
+        - Non-negative Matrix Factorization
 - Calculus
 - Optimization
     - Gradient descent
     - Expectation Maximization
+        - Baum-Welch algorithm
+    - Heuristics
+        - Evolutionary algorithms
 - Probability
     - Sample Space
     - Sampling
@@ -31,12 +35,17 @@ online resources covering the subjects.
         - Variance
     - Conditional probability
     - Bayes' Theorem
+<<<<<<< HEAD
         - Posterior probability distribution
     - Random Field
+=======
+    - Random Variables and its distributions
+>>>>>>> a9bc9f9ab0764cbe901c39c1622e88bc38b76b75
 - Statistics
     - Sampling distribution
     - Central Limit Theorem
     - Likelihood function
+<<<<<<< HEAD
     - Monte Carlo method
     - Markov Chain
     - Inference
@@ -68,18 +77,71 @@ online resources covering the subjects.
             - No free lunch theorem
             - Regularization
         - Vapnik-Chervonenkis theory
+=======
+    - Inference
+        - Hypothesis testing
+        - Regression
+            - Generalized Linear Models
+    - Random fields
+        - Stochastic process
+            - Markov Chain
+            - Time-series analysis
+    - Monte Carlo method
+    - Bayesian Inference
+        - MCMC
+        - Variational inference
+    - Probabilistic Graphical Models
+        - Bayesian Networks
+            - Hidden Markov Models
+        - Markov Random Field
+            - Boltzmann machine
+    - Regression
+        - Generalized Linear Models
+        - Autoregressive models
+    - Nonparametric inference
+        - Additive models
+            - Generalized additive models
+        - Kernel density estimation
+- Machine Learning
+    - Statistical Learning Theory
+        - Bias-variance trade-off
+        - Vapnik-Chervonenkis Dimension
+        - Regularization
+            - LASSO
+            - Ridge
+            - Elastic Net
+        - Model evaluation
+            - Cross-validation
+            - ROC Curve
+                - AUC
+                - Recall, precision, F1 Score.
+        - Hyperparameter optimization
+>>>>>>> a9bc9f9ab0764cbe901c39c1622e88bc38b76b75
     - k-NN
     - Support Vector Machines
+        - Kernel trick
     - Decision trees
         - Random Forest
     - Ensemble
         - Bagging
         - Boosting
+        - Stacking
     - Neural Networks
         - Backpropagation
         - Feedforward networks
+            - Perceptron
+            - Multilayer perceptron
+                - Convolutional Neural Networks
+            - Autoencoder
         - Recurrent networks
+            - LSTM
+            - 
         - Autoencoders
+- Information Theory
+    - Entropy
+    - Kullback–Leibler divergence
+    - Signal processing
+        - Kalman filter
 
 ## **Free** resources and references
 
