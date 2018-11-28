@@ -26,34 +26,48 @@ online resources covering the subjects.
         - Jacknife
         - Bootstrap
     - Relative frequency and probability
+    - Random Variables and its distributions
+        - Expected value
+        - Variance
     - Conditional probability
     - Bayes' Theorem
-    - Random Variables and its distributions
+        - Posterior probability distribution
     - Random Field
 - Statistics
     - Sampling distribution
     - Central Limit Theorem
     - Likelihood function
-    - Inference
-        - Hypothesis testing
-        - Regression
-            - Generalized Linear Models
-    - Bayesian Inference
     - Monte Carlo method
     - Markov Chain
-    - MCMC
-    - Probabilistic Graphical Models
-        - Bayesian Networks
-        - Markov Random Field
-    - Nonparametric inference
-        - Additive models
-            - Generalized additive models
+    - Inference
+        - Hypothesis testing
+        - Estimators
+            - Mean Square Error
+            - Bias-variance tradeoff
+        - Parametric inference
+            - Regression
+                - Generalized Linear Models
+        - Bayesian Inference
+            - Maximum a posteriori estimation
+            - MCMC
+        - Probabilistic Graphical Models
+            - Bayesian Networks
+            - Markov Random Field
+        - Nonparametric inference
+            - Additive models
+                - Generalized additive models
+            - Kernel density estimation
 - Information Theory
     - Entropy
     - Kullback–Leibler divergence
     - Signal processing
         - Kalman filter
 - Machine Learning
+    - Statistical Learning Theory
+        - Hypothesis space
+            - No free lunch theorem
+            - Regularization
+        - Vapnik-Chervonenkis theory
     - k-NN
     - Support Vector Machines
     - Decision trees
@@ -118,6 +132,10 @@ online resources covering the subjects.
 - Book: [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf)
 - Book: [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf)
 - Journal: [Distill](https://distill.pub/)
+
+#### Statistical Learning Theory
+
+- Playlist: [Caltech CS 156 - Learning from data](https://www.youtube.com/watch?v=mbyG85GZ0PI&list=PLD63A284B7615313A)
 
 #### Neural Networks and Deep Learning
 
