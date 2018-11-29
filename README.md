@@ -23,12 +23,12 @@ online resources covering the subjects.
         - Baum-Welch algorithm
     - Heuristics
         - Evolutionary algorithms
+- Measure theory
+    - Sigma-algebra
 - Probability
     - Sample Space
-    - Sampling
-    - Resampling
-        - Jacknife
-        - Bootstrap
+    - Kolmogorov axioms
+    - Cox's theorem
     - Relative frequency and probability
     - Random Variables and its distributions
         - Expected value
@@ -39,8 +39,11 @@ online resources covering the subjects.
 - Statistics
     - Sampling distribution
     - Central Limit Theorem
-    - Likelihood function
+    - Resampling
+        - Jacknife
+        - Bootstrap
     - Monte Carlo method
+    - Likelihood function
     - Random Field
         - Stochastic process
             - Time-series analysis
