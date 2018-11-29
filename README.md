@@ -67,6 +67,8 @@ online resources covering the subjects.
         - Parametric inference
             - Regression
                 - Generalized Linear Models
+                    - Logistic regression
+                - Quantile regression
                 - Autoregressive models
         - Bayesian Inference
             - Maximum a posteriori estimation
