@@ -90,6 +90,8 @@ online resources covering the subjects.
             - LASSO
             - Ridge
             - Elastic Net
+            - Early stopping
+            - Dropout
     - Cross-validation
         - Hyperparameter optimization
         - Automated Machine Learning
@@ -110,6 +112,8 @@ online resources covering the subjects.
             - LSTM
         - Restricted Boltzmann machine
             - Deep Belief Network
+    - Adversarial Machine Learning
+        - Generative Adversarial Networks
     - Ensemble
         - Bagging
         - Boosting
