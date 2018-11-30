@@ -50,6 +50,8 @@ online resources covering the subjects.
         - Markov Chain
     - Inference
         - Hypothesis testing
+            - ANOVA
+        - Survival analysis
         - Estimators
             - Mean Square Error
             - Bias-variance tradeoff
