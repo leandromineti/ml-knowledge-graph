@@ -30,9 +30,19 @@ online resources covering the subjects.
     - Kolmogorov axioms
     - Cox's theorem
     - Relative frequency and probability
-    - Random Variables and its distributions
+    - Random Variables
         - Expected value
         - Variance
+        - Distributions
+            - Discrete
+                - Bernoulli
+                - Binomial
+                - Poisson
+            - Continuous
+                - Normal
+                - Exponential
+                - Gama
+                - Weibull
     - Conditional probability
     - Bayes' Theorem
         - Posterior probability distribution
@@ -69,7 +79,12 @@ online resources covering the subjects.
         - Parametric inference
             - Regression
                 - Generalized Linear Models
+                    - Exponential family
                     - Logistic regression
+                    - Multinomial regression
+                    - Poisson regression
+                    - Gama regression
+                    - Binomial regression
                 - Quantile regression
                 - Autoregressive models
         - Bayesian Inference
@@ -105,17 +120,24 @@ online resources covering the subjects.
     - Decision trees
         - Random Forest
     - Neural Networks
-        - Backpropagation
-        - Feedforward networks
-            - Perceptron
-            - Multilayer perceptron
-                - Convolutional Neural Networks
-                    - Deep Q-Learning
-            - Autoencoder
-        - Recurrent networks
-            - LSTM
-        - Restricted Boltzmann machine
-            - Deep Belief Network
+        - Training
+            - Backpropagation
+            - Activation function
+                - Sigmoid
+                - Softmax
+                - Tanh
+                - ReLU
+        - Architecture
+            - Feedforward networks
+                - Perceptron
+                - Multilayer perceptron
+                    - Convolutional Neural Networks
+                        - Deep Q-Learning
+                - Autoencoder
+            - Recurrent networks
+                - LSTM
+            - Restricted Boltzmann machine
+                - Deep Belief Network
     - Adversarial Machine Learning
         - Generative Adversarial Networks
     - Ensemble
@@ -189,7 +211,7 @@ online resources covering the subjects.
 #### Neural Networks and Deep Learning
 
 - Playlist: [Neural Networks by 3blue1brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
-- Tool:[A Neural Network Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.54960&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
+- Tool: [A Neural Network Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.54960&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 - Course: [Deep Learning for Coders](https://course.fast.ai/index.html)
 - Course: [Deep Learning for Coders 2](https://course.fast.ai/part2.html)
 - Book: [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
