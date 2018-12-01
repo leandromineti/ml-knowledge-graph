@@ -78,6 +78,9 @@ online resources covering the subjects.
             - Factor Analysis
         - Parametric inference
             - Regression
+                - Linear regression
+                - Quantile regression
+                - Autoregressive models
                 - Generalized Linear Models
                     - Exponential family
                     - Logistic regression
@@ -85,8 +88,6 @@ online resources covering the subjects.
                     - Poisson regression
                     - Gama regression
                     - Binomial regression
-                - Quantile regression
-                - Autoregressive models
         - Bayesian Inference
             - Maximum a posteriori estimation
             - MCMC
