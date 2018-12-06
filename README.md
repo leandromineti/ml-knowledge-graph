@@ -17,10 +17,21 @@ online resources covering the subjects.
         - Singular Value Decomposition
         - Non-negative Matrix Factorization
 - Calculus
+    - Limits
+    - Derivatives
+        - Partial derivatives
+            - Gradient
+    - Integrals
+    - Taylor series
+        - Maclaurin series
+    - Fourrier series
+        - Fourrier transform
+            - Laplace transform
 - Optimization
-    - Gradient descent
-    - Expectation Maximization
-        - Baum-Welch algorithm
+    - Iterative methods
+        - Gradient descent
+        - Expectation Maximization
+            - Baum-Welch algorithm
     - Heuristics
         - Evolutionary algorithms
 - Measure theory
@@ -34,15 +45,11 @@ online resources covering the subjects.
         - Expected value
         - Variance
         - Distributions
-            - Discrete
-                - Bernoulli
-                - Binomial
-                - Poisson
-            - Continuous
-                - Normal
-                - Exponential
-                - Gama
-                - Weibull
+            - Exponential family
+                - Normal distribution
+                - Bernoulli distribution
+            - Moment-generating function
+                - Characteristic function
     - Conditional probability
     - Bayes' Theorem
         - Posterior probability distribution
@@ -82,12 +89,8 @@ online resources covering the subjects.
                 - Quantile regression
                 - Autoregressive models
                 - Generalized Linear Models
-                    - Exponential family
                     - Logistic regression
                     - Multinomial regression
-                    - Poisson regression
-                    - Gama regression
-                    - Binomial regression
         - Bayesian Inference
             - Maximum a posteriori estimation
             - MCMC
@@ -134,9 +137,14 @@ online resources covering the subjects.
                 - Multilayer perceptron
                     - Convolutional Neural Networks
                         - Deep Q-Learning
+                        - Temporal Convolutional Networks
                 - Autoencoder
+                    - Variational autoencoder
             - Recurrent networks
                 - LSTM
+                - Gated Recurrent Unit
+                - Neural Turing Machine
+                - Attention mechanism
             - Restricted Boltzmann machine
                 - Deep Belief Network
     - Adversarial Machine Learning
@@ -145,6 +153,7 @@ online resources covering the subjects.
         - Bagging
         - Boosting
         - Stacking
+    - Meta-learning
 - Information Theory
     - Entropy
     - Kullback–Leibler divergence
@@ -229,4 +238,5 @@ online resources covering the subjects.
 ### Optimization
 
 - Article: [How optimization for machine learning works](https://brohrer.github.io/how_optimization_works_1.html)
+- Article: [Learning to Optimize with Reinforcement Learning](https://bair.berkeley.edu/blog/2017/09/12/learning-to-optimize-with-rl/)
 - Blog: [Off The Convex Path](http://www.offconvex.org/)
