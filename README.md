@@ -10,6 +10,12 @@ online resources covering the subjects.
 ## Curriculum 
 
 - Set theory
+    - Empty set
+    - Finite and infinite sets
+    - Operations on sets
+        - Complement
+        - Union
+        - Intersection
 - Linear Algebra
     - Matrix transformation
     - Eigenstuff
