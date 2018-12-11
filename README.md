@@ -62,6 +62,10 @@ online resources covering the subjects.
                 - Bernoulli distribution
             - Moment-generating function
                 - Characteristic function
+            - Multivariate distributions
+                - Joint distribution
+                - Marginal distribution
+                - Conditional distribution
     - Conditional probability
     - Bayes' Theorem
         - Posterior probability distribution
