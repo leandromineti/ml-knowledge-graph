@@ -47,6 +47,11 @@ online resources covering the subjects.
     - Kolmogorov axioms
     - Cox's theorem
     - Relative frequency and probability
+    - Counting methods
+        - Multiplication rule
+        - Permutation
+        - Combination and Binomial coefficient
+        - Arrangement
     - Random Variables
         - Algebra of random variables
         - Expected value
