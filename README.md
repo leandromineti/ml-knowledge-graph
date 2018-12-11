@@ -52,6 +52,9 @@ online resources covering the subjects.
         - Permutation
         - Combination and Binomial coefficient
         - Arrangement
+    - Conditional probability
+    - Bayes' Theorem
+        - Posterior probability distribution
     - Random Variables
         - Algebra of random variables
         - Expected value
@@ -66,9 +69,6 @@ online resources covering the subjects.
                 - Joint distribution
                 - Marginal distribution
                 - Conditional distribution
-    - Conditional probability
-    - Bayes' Theorem
-        - Posterior probability distribution
     - Probability inequalities
         - Chebyshev's inequality
         - Bernstein inequalities
