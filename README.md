@@ -48,6 +48,7 @@ online resources covering the subjects.
     - Cox's theorem
     - Relative frequency and probability
     - Random Variables
+        - Algebra of random variables
         - Expected value
         - Variance
         - Distributions
@@ -59,8 +60,14 @@ online resources covering the subjects.
     - Conditional probability
     - Bayes' Theorem
         - Posterior probability distribution
+    - Probability inequalities
+        - Chebyshev's inequality
+        - Bernstein inequalities
+            - Chernoff bound
+            - Hoeffding's inequality
 - Statistics
     - Sampling distribution
+    - Law of large numbers
     - Central Limit Theorem
     - Resampling
         - Jacknife
