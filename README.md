@@ -285,11 +285,11 @@ include it?
 
 [True](https://www.youtube.com/watch?v=GmpxxC5tBck), concrete in this sense is 
 just a joke. I did not know how to anchor the CS node in its mathematical underpinnings,
-so I used the took the term from Knuth to make the bridge.
+so I took the term from Knuth to make the bridge.
 
 - Why make a distinction between Machine Learning and Artificial Intelligence?
 
-I followed the approach explored by Russel and Norvig[1]. In that sense, Artificial
+I followed the approach explored by Russel and Norvig [1]. In that sense, Artificial
 Intelligence is a broader field that encompasses Machine Learning. 
 
 ### References
