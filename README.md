@@ -2,10 +2,11 @@
 
 ![](cover.png)
 
-> Besides enumerating the topics related to Machine Learning and Statistical Modeling, I
+
+Besides enumerating the topics related to Machine Learning and Statistical Modeling, I
 am currently building an [interactive graph](https://leandromineti.github.io/ml-knowledge-graph/) 
 to illustrate its relations. At the end of the page you can find a list of **free**
-online resources covering the subjects.
+online resources covering the subjects and a FAQ.
 
 ## Curriculum 
 
@@ -172,7 +173,21 @@ online resources covering the subjects.
     - Kullback–Leibler divergence
     - Signal processing
         - Kalman filter
-
+- Computer Science
+    - Concrete mathematics
+    - Algorithms
+        - Computability
+            - Church–Turing thesis
+        - Complexity
+- Artificial Intelligence
+    - Cognitive Science
+    - Cybernetics
+        - Control theory
+    - Symbolic
+        - Logic-based
+    - Natural Language Processing
+        - Turing test
+        
 ## **Free** resources and references
 
 ### Mathematics
@@ -254,3 +269,21 @@ online resources covering the subjects.
 - Article: [How optimization for machine learning works](https://brohrer.github.io/how_optimization_works_1.html)
 - Article: [Learning to Optimize with Reinforcement Learning](https://bair.berkeley.edu/blog/2017/09/12/learning-to-optimize-with-rl/)
 - Blog: [Off The Convex Path](http://www.offconvex.org/)
+
+## FAQ
+
+- Concrete mathematics is not really a specific area of mathematics, why did you
+include it?
+
+[True](https://www.youtube.com/watch?v=GmpxxC5tBck), concrete in this sense is 
+just a joke. I did not know how to anchor the CS node in its mathematical underpinnings,
+so I used the took the term from Knuth to make the bridge.
+
+- Why make a distinction between Machine Learning and Artificial Intelligence?
+
+I followed the approach explored by Russel and Norvig[1]. In that sense, Artificial
+Intelligence is a broader field that encompasses Machine Learning. 
+
+### References
+
+[1] Russell, S. J., & Norvig, P. (2016). Artificial intelligence: a modern approach. Malaysia; Pearson Education Limited,.
