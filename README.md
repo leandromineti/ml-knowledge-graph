@@ -48,6 +48,14 @@ online resources covering the subjects and a FAQ.
     - Kolmogorov axioms
     - Cox's theorem
     - Relative frequency and probability
+    - Counting methods
+        - Multiplication rule
+        - Permutation
+        - Combination and Binomial coefficient
+        - Arrangement
+    - Conditional probability
+    - Bayes' Theorem
+        - Posterior probability distribution
     - Random Variables
         - Algebra of random variables
         - Expected value
@@ -58,9 +66,10 @@ online resources covering the subjects and a FAQ.
                 - Bernoulli distribution
             - Moment-generating function
                 - Characteristic function
-    - Conditional probability
-    - Bayes' Theorem
-        - Posterior probability distribution
+            - Multivariate distributions
+                - Joint distribution
+                - Marginal distribution
+                - Conditional distribution
     - Probability inequalities
         - Chebyshev's inequality
         - Bernstein inequalities
