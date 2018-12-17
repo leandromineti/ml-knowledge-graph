@@ -17,9 +17,6 @@ ml-curriculum.Rproj
 # Output files from R CMD check
 /*.Rcheck/
 
-# Main file
-main.R
-
 # RStudio files
 .Rproj.user/
 
