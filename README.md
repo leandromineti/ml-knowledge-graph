@@ -9,6 +9,8 @@ online resources covering the subjects and a FAQ.
 
 ## Curriculum 
 
+- Logic
+    - Gödel's incompleteness theorems
 - Set theory
     - Empty set
     - Finite and infinite sets
@@ -35,6 +37,7 @@ online resources covering the subjects and a FAQ.
             - Laplace transform
 - Optimization
     - Iterative methods
+        - Newton's method
         - Gradient descent
         - Expectation Maximization
             - Baum-Welch algorithm
@@ -102,9 +105,16 @@ online resources covering the subjects and a FAQ.
                     - Wrapper methods
                     - Embedded methods
                 - Feature extraction
-                    - Principal Component Analysis
-                    - t-SNE
+                    - Linear
+                        - Principal Component Analysis
+                        - Linear Discriminant Analysis
+                    - Nonlinear
+                        - t-SNE
+                        - UMAP
             - Factor Analysis
+        - Mixture models
+            - Method of moments
+            - Spectral method
         - Parametric inference
             - Regression
                 - Linear regression
@@ -120,12 +130,16 @@ online resources covering the subjects and a FAQ.
         - Probabilistic Graphical Models
             - Bayesian Networks
                 - Hidden Markov Models
+                    - Maximum-entropy Markov model
             - Markov Random Field
                 - Boltzmann machine
+            - Latent Dirichlet Allocation
+            - Conditional Random Field
         - Nonparametric inference
             - Additive models
                 - Generalized additive models
             - Kernel density estimation
+        - Generative and discriminative models
 - Machine Learning
     - Statistical Learning Theory
         - Vapnik-Chervonenkis theory
@@ -141,6 +155,7 @@ online resources covering the subjects and a FAQ.
         - Hyperparameter optimization
         - Automated Machine Learning
     - k-NN
+    - Naive Bayes
     - Support Vector Machines
         - Kernel trick
     - Decision trees
@@ -178,11 +193,11 @@ online resources covering the subjects and a FAQ.
     - Meta-learning
 - Information Theory
     - Entropy
+        - Maximum entropy models
     - Kullback–Leibler divergence
     - Signal processing
         - Kalman filter
 - Computer Science
-    - Concrete mathematics
     - Algorithms
         - Computability
             - Church–Turing thesis
@@ -194,6 +209,13 @@ online resources covering the subjects and a FAQ.
     - Symbolic
         - Logic-based
     - Natural Language Processing
+        - Information Retrieval
+            - Set-theoretic models
+                - Standard Boolean model
+                - Extended Boolean model
+                - Fuzzy retrieval
+            - Algebraic models
+            - Probabilistic models
         - Turing test
         
 ## **Free** resources and references
@@ -280,14 +302,7 @@ online resources covering the subjects and a FAQ.
 
 ## FAQ
 
-- Concrete mathematics is not really a specific area of mathematics, why did you
-include it?
-
-[True](https://www.youtube.com/watch?v=GmpxxC5tBck), concrete in this sense is 
-just a joke. I did not know how to anchor the CS node in its mathematical underpinnings,
-so I took the term from Knuth to make the bridge.
-
-- Why make a distinction between Machine Learning and Artificial Intelligence?
+- **Why make a distinction between Machine Learning and Artificial Intelligence?**
 
 I followed the approach explored by Russel and Norvig [1]. In that sense, Artificial
 Intelligence is a broader field that encompasses Machine Learning. 
