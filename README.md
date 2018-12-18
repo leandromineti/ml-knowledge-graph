@@ -261,6 +261,7 @@ online resources covering the subjects and a FAQ.
 
 ### Machine Learning
 
+- Article: [Statistical Modeling: the two cultures](http://www2.math.uu.se/~thulin/mm/breiman.pdf)
 - Article: [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - Article: [Model tuning and the Bias-Variance tradeoff](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)
 - Tool: [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
