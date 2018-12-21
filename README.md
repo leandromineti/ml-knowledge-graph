@@ -301,16 +301,16 @@ online resources covering the subjects and a FAQ.
 - Article: [Learning to Optimize with Reinforcement Learning](https://bair.berkeley.edu/blog/2017/09/12/learning-to-optimize-with-rl/)
 - Blog: [Off The Convex Path](http://www.offconvex.org/)
 
+### Artificial Intelligence
+
+- Course: [Text as Data](https://cbail.github.io/textasdata/Text_as_Data.html)
+
 ## FAQ
 
 - **Why make a distinction between Machine Learning and Artificial Intelligence?**
 
 I followed the approach explored by Russel and Norvig [1]. In that sense, Artificial
 Intelligence is a broader field that encompasses Machine Learning. 
-
-### Artificial Intelligence
-
-- Course: [Text as Data](https://cbail.github.io/textasdata/Text_as_Data.html)
 
 ### References
 
