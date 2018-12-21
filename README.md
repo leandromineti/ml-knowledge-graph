@@ -308,6 +308,10 @@ online resources covering the subjects and a FAQ.
 I followed the approach explored by Russel and Norvig [1]. In that sense, Artificial
 Intelligence is a broader field that encompasses Machine Learning. 
 
+### Artificial Intelligence
+
+- Course: [Text as Data](https://cbail.github.io/textasdata/Text_as_Data.html)
+
 ### References
 
 [1] Russell, S. J., & Norvig, P. (2016). Artificial intelligence: a modern approach. Malaysia; Pearson Education Limited,.
