@@ -262,6 +262,7 @@ online resources covering the subjects and a FAQ.
 
 ### Machine Learning
 
+- Article: [Statistical Modeling: the two cultures](http://www2.math.uu.se/~thulin/mm/breiman.pdf)
 - Article: [A visual introduction to machine learning](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/)
 - Article: [Model tuning and the Bias-Variance tradeoff](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/)
 - Tool: [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
@@ -284,6 +285,7 @@ online resources covering the subjects and a FAQ.
 - Tool: [A Neural Network Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.54960&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 - Course: [Deep Learning for Coders](https://course.fast.ai/index.html)
 - Course: [Deep Learning for Coders 2](https://course.fast.ai/part2.html)
+- Course: [MIT Deep Learning](https://deeplearning.mit.edu/)
 - Book: [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 - Book: [Deep Learning](https://www.deeplearningbook.org/)
 
@@ -300,6 +302,10 @@ online resources covering the subjects and a FAQ.
 - Article: [How optimization for machine learning works](https://brohrer.github.io/how_optimization_works_1.html)
 - Article: [Learning to Optimize with Reinforcement Learning](https://bair.berkeley.edu/blog/2017/09/12/learning-to-optimize-with-rl/)
 - Blog: [Off The Convex Path](http://www.offconvex.org/)
+
+### Artificial Intelligence
+
+- Course: [Text as Data](https://cbail.github.io/textasdata/Text_as_Data.html)
 
 ## FAQ
 
