@@ -284,6 +284,7 @@ online resources covering the subjects and a FAQ.
 - Tool: [A Neural Network Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.54960&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 - Course: [Deep Learning for Coders](https://course.fast.ai/index.html)
 - Course: [Deep Learning for Coders 2](https://course.fast.ai/part2.html)
+- Course: [MIT Deep Learning](https://deeplearning.mit.edu/)
 - Book: [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 - Book: [Deep Learning](https://www.deeplearningbook.org/)
 
