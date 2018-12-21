@@ -9,214 +9,215 @@ online resources covering the subjects and a FAQ.
 
 ## Curriculum 
 
-- Logic
+- Mathematics
+  - Logic
     - Gödel's incompleteness theorems
-- Set theory
+  - Set theory
     - Empty set
     - Finite and infinite sets
     - Operations on sets
-        - Complement
-        - Union
-        - Intersection
-- Linear Algebra
+      - Complement
+      - Union
+      - Intersection
+  - Linear Algebra
     - Matrix transformation
     - Eigenstuff
     - Matrix decomposition
-        - Singular Value Decomposition
-        - Non-negative Matrix Factorization
-- Calculus
+      - Singular Value Decomposition
+      - Non-negative Matrix Factorization
+  - Calculus
     - Limits
     - Derivatives
-        - Partial derivatives
-            - Gradient
+      - Partial derivatives
+        - Gradient
     - Integrals
     - Taylor series
-        - Maclaurin series
+      - Maclaurin series
     - Fourrier series
-        - Fourrier transform
-            - Laplace transform
+      - Fourrier transform
+        - Laplace transform
 - Optimization
-    - Iterative methods
-        - Newton's method
-        - Gradient descent
-        - Expectation Maximization
-            - Baum-Welch algorithm
-    - Heuristics
-        - Evolutionary algorithms
+  - Iterative methods
+    - Newton's method
+    - Gradient descent
+    - Expectation Maximization
+      - Baum-Welch algorithm
+  - Heuristics
+    - Evolutionary algorithms
 - Measure theory
-    - Sigma-algebra
+  - Sigma-algebra
 - Probability
-    - Sample Space
-    - Kolmogorov axioms
-    - Cox's theorem
-    - Relative frequency and probability
-    - Counting methods
-        - Multiplication rule
-        - Permutation
-        - Combination and Binomial coefficient
-        - Arrangement
-    - Conditional probability
-    - Bayes' Theorem
-        - Posterior probability distribution
-    - Random Variables
-        - Algebra of random variables
-        - Expected value
-        - Variance
-        - Distributions
-            - Exponential family
-                - Normal distribution
-                - Bernoulli distribution
-            - Moment-generating function
-                - Characteristic function
-            - Multivariate distributions
-                - Joint distribution
-                - Marginal distribution
-                - Conditional distribution
-    - Probability inequalities
-        - Chebyshev's inequality
-        - Bernstein inequalities
-            - Chernoff bound
-            - Hoeffding's inequality
+  - Sample Space
+  - Kolmogorov axioms
+  - Cox's theorem
+  - Relative frequency and probability
+  - Counting methods
+    - Multiplication rule
+    - Permutation
+    - Combination and Binomial coefficient
+    - Arrangement
+  - Conditional probability
+  - Bayes' Theorem
+    - Posterior probability distribution
+  - Random Variables
+    - Algebra of random variables
+    - Expected value
+    - Variance
+    - Distributions
+      - Exponential family
+        - Normal distribution
+        - Bernoulli distribution
+      - Moment-generating function
+        - Characteristic function
+      - Multivariate distributions
+        - Joint distribution
+        - Marginal distribution
+        - Conditional distribution
+  - Probability inequalities
+    - Chebyshev's inequality
+    - Bernstein inequalities
+      - Chernoff bound
+      - Hoeffding's inequality
 - Statistics
-    - Sampling distribution
-    - Law of large numbers
-    - Central Limit Theorem
-    - Resampling
-        - Jacknife
-        - Bootstrap
-    - Monte Carlo method
-    - Likelihood function
-    - Random Field
-        - Stochastic process
-            - Time-series analysis
-        - Markov Chain
-    - Inference
-        - Hypothesis testing
-            - ANOVA
-        - Survival analysis
-        - Estimators
-            - Mean Square Error
-            - Bias-variance tradeoff
-        - Multivariate analysis
-            - Covariance matrix
-            - Dimensionality reduction
-                - Feature selection
-                    - Filter methods
-                    - Wrapper methods
-                    - Embedded methods
-                - Feature extraction
-                    - Linear
-                        - Principal Component Analysis
-                        - Linear Discriminant Analysis
-                    - Nonlinear
-                        - t-SNE
-                        - UMAP
-            - Factor Analysis
-        - Mixture models
-            - Method of moments
-            - Spectral method
-        - Parametric inference
-            - Regression
-                - Linear regression
-                - Quantile regression
-                - Autoregressive models
-                - Generalized Linear Models
-                    - Logistic regression
-                    - Multinomial regression
-        - Bayesian Inference
-            - Maximum a posteriori estimation
-            - MCMC
-            - Variational inference
-        - Probabilistic Graphical Models
-            - Bayesian Networks
-                - Hidden Markov Models
-                    - Maximum-entropy Markov model
-            - Markov Random Field
-                - Boltzmann machine
-            - Latent Dirichlet Allocation
-            - Conditional Random Field
-        - Nonparametric inference
-            - Additive models
-                - Generalized additive models
-            - Kernel density estimation
-        - Generative and discriminative models
+  - Sampling distribution
+  - Law of large numbers
+  - Central Limit Theorem
+  - Resampling
+    - Jacknife
+    - Bootstrap
+  - Monte Carlo method
+  - Likelihood function
+  - Random Field
+    - Stochastic process
+        - Time-series analysis
+    - Markov Chain
+  - Inference
+    - Hypothesis testing
+      - ANOVA
+    - Survival analysis
+    - Estimators
+      - Mean Square Error
+      - Bias-variance tradeoff
+    - Multivariate analysis
+      - Covariance matrix
+      - Dimensionality reduction
+        - Feature selection
+          - Filter methods
+          - Wrapper methods
+          - Embedded methods
+        - Feature extraction
+          - Linear
+            - Principal Component Analysis
+            - Linear Discriminant Analysis
+          - Nonlinear
+            - t-SNE
+            - UMAP
+      - Factor Analysis
+    - Mixture models
+      - Method of moments
+      - Spectral method
+    - Parametric inference
+      - Regression
+        - Linear regression
+        - Quantile regression
+        - Autoregressive models
+        - Generalized Linear Models
+          - Logistic regression
+          - Multinomial regression
+    - Bayesian Inference
+      - Maximum a posteriori estimation
+      - MCMC
+      - Variational inference
+    - Probabilistic Graphical Models
+      - Bayesian Networks
+        - Hidden Markov Models
+          - Maximum-entropy Markov model
+      - Markov Random Field
+        - Boltzmann machine
+      - Latent Dirichlet Allocation
+      - Conditional Random Field
+    - Nonparametric inference
+      - Additive models
+        - Generalized additive models
+      - Kernel density estimation
+    - Generative and discriminative models
 - Machine Learning
-    - Statistical Learning Theory
-        - Vapnik-Chervonenkis theory
-        - Hypothesis set
-            - No free lunch theorem 
-        - Regularization
-            - LASSO
-            - Ridge
-            - Elastic Net
-            - Early stopping
-            - Dropout
-    - Cross-validation
-        - Hyperparameter optimization
-        - Automated Machine Learning
-    - k-NN
-    - Naive Bayes
-    - Support Vector Machines
-        - Kernel trick
-    - Decision trees
-        - Random Forest
-    - Neural Networks
-        - Training
-            - Backpropagation
-            - Activation function
-                - Sigmoid
-                - Softmax
-                - Tanh
-                - ReLU
-        - Architecture
-            - Feedforward networks
-                - Perceptron
-                - Multilayer perceptron
-                    - Convolutional Neural Networks
-                        - Deep Q-Learning
-                        - Temporal Convolutional Networks
-                - Autoencoder
-                    - Variational autoencoder
-            - Recurrent networks
-                - LSTM
-                - Gated Recurrent Unit
-                - Neural Turing Machine
-                - Attention mechanism
-            - Restricted Boltzmann machine
-                - Deep Belief Network
-    - Adversarial Machine Learning
-        - Generative Adversarial Networks
-    - Ensemble
-        - Bagging
-        - Boosting
-        - Stacking
-    - Meta-learning
+  - Statistical Learning Theory
+    - Vapnik-Chervonenkis theory
+    - Hypothesis set
+      - No free lunch theorem 
+    - Regularization
+      - LASSO
+      - Ridge
+      - Elastic Net
+      - Early stopping
+      - Dropout
+  - Cross-validation
+    - Hyperparameter optimization
+    - Automated Machine Learning
+  - k-NN
+  - Naive Bayes
+  - Support Vector Machines
+    - Kernel trick
+  - Decision trees
+    - Random Forest
+  - Neural Networks
+    - Training
+      - Backpropagation
+      - Activation function
+        - Sigmoid
+        - Softmax
+        - Tanh
+        - ReLU
+    - Architecture
+      - Feedforward networks
+        - Perceptron
+        - Multilayer perceptron
+          - Convolutional Neural Networks
+            - Deep Q-Learning
+            - Temporal Convolutional Networks
+        - Autoencoder
+          - Variational autoencoder
+      - Recurrent networks
+        - LSTM
+        - Gated Recurrent Unit
+        - Neural Turing Machine
+        - Attention mechanism
+      - Restricted Boltzmann machine
+        - Deep Belief Network
+  - Adversarial Machine Learning
+    - Generative Adversarial Networks
+  - Ensemble
+    - Bagging
+    - Boosting
+    - Stacking
+  - Meta-learning
 - Information Theory
-    - Entropy
-        - Maximum entropy models
-    - Kullback–Leibler divergence
-    - Signal processing
-        - Kalman filter
+  - Entropy
+    - Maximum entropy models
+  - Kullback–Leibler divergence
+  - Signal processing
+    - Kalman filter
 - Computer Science
-    - Algorithms
-        - Computability
-            - Church–Turing thesis
-        - Complexity
+  - Algorithms
+    - Computability
+      - Church–Turing thesis
+    - Complexity
 - Artificial Intelligence
-    - Cognitive Science
-    - Cybernetics
-        - Control theory
-    - Symbolic
-        - Logic-based
-    - Natural Language Processing
-        - Information Retrieval
-            - Set-theoretic models
-                - Standard Boolean model
-                - Extended Boolean model
-                - Fuzzy retrieval
-            - Algebraic models
-            - Probabilistic models
-        - Turing test
+  - Cognitive Science
+  - Cybernetics
+    - Control theory
+  - Symbolic
+    - Logic-based
+  - Natural Language Processing
+    - Information Retrieval
+      - Set-theoretic models
+        - Standard Boolean model
+        - Extended Boolean model
+        - Fuzzy retrieval
+      - Algebraic models
+      - Probabilistic models
+    - Turing test
         
 ## **Free** resources and references
 
