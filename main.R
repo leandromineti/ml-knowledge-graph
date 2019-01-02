@@ -25,9 +25,9 @@ g <- graph.adjacency(dt, mode = "undirected")
 dt_g <- igraph_to_networkD3(g, group = gp)
 
 # Generate graph
-forceNetwork(Links = dt_g$links, Nodes = dt_g$nodes,
+net <- forceNetwork(Links = dt_g$links, Nodes = dt_g$nodes,
              Source = "source", Target = "target", NodeID = "name",
              Group = "group", opacity = 1, zoom = TRUE, legend = T, 
-             opacityNoHover = 0.5)
+             opacityNoHover = 0.7)
 
 saveNetwork(net, "index.html", selfcontained = T)
