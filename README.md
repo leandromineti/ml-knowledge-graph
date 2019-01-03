@@ -105,6 +105,9 @@ online resources covering the subjects and a FAQ.
         - Error
           - Mean squared error
         - Bias and Variance
+          - Unbiased estimator
+            - Minimum-variance unbiased estimator (MVUE)
+            - Cramér-Rao bound
         - Bias-variance tradeoff
       - Behavioral properties
         - Asymptotic properties
@@ -112,6 +115,7 @@ online resources covering the subjects and a FAQ.
           - Consistency
           - Efficiency
         - Robustness
+          - M-estimators
     - Multivariate analysis
       - Covariance matrix
       - Dimensionality reduction
@@ -160,6 +164,7 @@ online resources covering the subjects and a FAQ.
     - Vapnik-Chervonenkis theory
     - Hypothesis set
       - No free lunch theorem 
+    - Loss function
     - Regularization
       - LASSO
       - Ridge
@@ -219,6 +224,9 @@ online resources covering the subjects and a FAQ.
     - Complexity
 - Artificial Intelligence
   - Cognitive Science
+  - Decision Theory
+    - Utility function
+  - Game Theory
   - Cybernetics
     - Control theory
   - Symbolic
