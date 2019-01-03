@@ -100,9 +100,18 @@ online resources covering the subjects and a FAQ.
         - Nelson-Aalen
       - Parametric
         - Cox regression
-    - Estimators
-      - Mean Square Error
-      - Bias-variance tradeoff
+    - Properties of estimators
+      - Quantified properties
+        - Error
+          - Mean squared error
+        - Bias and Variance
+        - Bias-variance tradeoff
+      - Behavioral properties
+        - Asymptotic properties
+          - Asymptotic normality
+          - Consistency
+          - Efficiency
+        - Robustness
     - Multivariate analysis
       - Covariance matrix
       - Dimensionality reduction
