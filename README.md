@@ -95,6 +95,11 @@ online resources covering the subjects and a FAQ.
     - Hypothesis testing
       - ANOVA
     - Survival analysis
+      - Non-parametric
+        - Kaplan–Meier
+        - Nelson-Aalen
+      - Parametric
+        - Cox regression
     - Estimators
       - Mean Square Error
       - Bias-variance tradeoff
@@ -256,6 +261,10 @@ online resources covering the subjects and a FAQ.
 - Article: [On Discriminative vs. Generative classifiers: A comparison of logistic regression and naive Bayes](http://ai.stanford.edu/~ang/papers/nips01-discriminativegenerative.pdf)
 - Article: [Generative and discriminative classifiers: Naive Bayes and Logistic Regression](http://www.cs.cmu.edu/~tom/mlbook/NBayesLogReg.pdf)
 - Post: [Generative vs. Discriminative; Bayesian vs. Frequentist](https://lingpipe-blog.com/2013/04/12/generative-vs-discriminative-bayesian-vs-frequentist/)
+
+#### Survival Analysis
+
+- Article: [Machine Learning for Survival Analysis: A Survey](http://dmkd.cs.vt.edu/papers/CSUR18.pdf)
 
 ### Information Theory
 
