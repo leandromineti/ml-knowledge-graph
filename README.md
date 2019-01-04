@@ -316,6 +316,7 @@ online resources covering the subjects and a FAQ.
 - Course: [MIT Deep Learning](https://deeplearning.mit.edu/)
 - Book: [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 - Book: [Deep Learning](https://www.deeplearningbook.org/)
+- Reading list: [Deep Learning Papers Reading Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap)
 
 #### Ensemble
 
