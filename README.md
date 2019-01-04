@@ -301,6 +301,7 @@ online resources covering the subjects and a FAQ.
 - Book: [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20Seventh%20Printing.pdf)
 - Book: [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/ElemStatLearn/printings/ESLII_print12.pdf)
 - Journal: [Distill](https://distill.pub/)
+- Blog: [Explained.ai](https://explained.ai/)
 
 #### Statistical Learning Theory
 
