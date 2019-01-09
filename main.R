@@ -10,10 +10,10 @@ dt[is.na(dt)] <- 0
 # Map subject labels to names
 gp <- dt[,1]
 gp <- mapvalues(gp, 
-                from = c(1, 2, 3, 4, 5, 6, 7), 
+                from = c(1, 2, 3, 4, 5, 6, 7, 8), 
                 to = c("Mathematics", "Statistics", "Optimization", 
                        "Machine Learning", "Information Theory", 
-                       "Computer Science", "Artificial Intelligence"))
+                       "Computer Science", "Artificial Intelligence", "Other"))
 
 # Drop subject label column
 dt <- dt[,-1]

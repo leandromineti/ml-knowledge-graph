@@ -2,10 +2,26 @@
 
 ![](cover.png)
 
-Besides enumerating the topics related to Machine Learning and Statistical Modeling, I
-am currently building an [interactive graph](https://leandromineti.github.io/ml-knowledge-graph/) 
-to illustrate its relations. At the end of the page you can find a list of **free**
-online resources covering the subjects and a FAQ.
+Machine learning emerges from the intersection of many fields of study. Important
+concepts in these fields are related in many ways. The aim with this graph is 
+to highlight the conections between these concepts and, hopefully, help us navigate
+this complex idea space.
+
+The concepts were classified in 7 categories:
+
+- Mathematics
+- Statistics
+- Information Theory
+- Machine Learning
+- Optimization
+- Computer Science
+- Artificial Intelligence
+
+A category called "Other" was added to list important related research areas. 
+Some concepts lie on the intersection of fields and are hard to classify. An 
+effort was made to put them where they used more frequently. Besides the [interactive graph](https://leandromineti.github.io/ml-knowledge-graph/), this contains a list
+repository of those concepts organized as a syllabus and indicates some **free**
+online resources covering the subjects.
 
 ## Curriculum 
 
@@ -223,7 +239,6 @@ online resources covering the subjects and a FAQ.
       - Church–Turing thesis
     - Complexity
 - Artificial Intelligence
-  - Cognitive Science
   - Decision Theory
     - Utility function
   - Game Theory
@@ -240,7 +255,11 @@ online resources covering the subjects and a FAQ.
       - Algebraic models
       - Probabilistic models
     - Turing test
-        
+- Other
+  - Cognitive sciences
+  - Econometrics
+  - Jurimetrics
+
 ## **Free** resources and references
 
 ### Mathematics
