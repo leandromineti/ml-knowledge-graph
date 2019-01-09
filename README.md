@@ -2,6 +2,8 @@
 
 ![](cover.png)
 
+> *Work in progress*
+
 Machine learning emerges from the intersection of many fields of study. Important
 concepts in these fields are related in many ways. The aim with this graph is 
 to highlight the conections between these concepts and, hopefully, help us navigate
