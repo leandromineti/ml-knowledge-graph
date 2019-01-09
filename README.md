@@ -19,7 +19,7 @@ The concepts were classified in 7 categories:
 
 A category called "Other" was added to list important related research areas. 
 Some concepts lie on the intersection of fields and are hard to classify. An 
-effort was made to put them where they used more frequently. Besides the [interactive graph](https://leandromineti.github.io/ml-knowledge-graph/), this contains a list
+effort was made to put them where they are used more frequently. Besides the [interactive graph](https://leandromineti.github.io/ml-knowledge-graph/), this contains a list
 repository of those concepts organized as a syllabus and indicates some **free**
 online resources covering the subjects.
 
