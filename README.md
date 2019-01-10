@@ -356,6 +356,15 @@ online resources covering the subjects.
 
 - Course: [Text as Data](https://cbail.github.io/textasdata/Text_as_Data.html)
 
+## Contributing
+
+Usually, I search through many sources to look for interesting concept relations. For example, when adding a new node it is useful to see what comes up at [wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) and [metacademy](https://metacademy.org). If you want to contribute, please open an issue stating the following:
+
+- Concept category.
+- Concept name.
+- Which other concepts should it be linked to.
+- References.
+
 ## FAQ
 
 - **Why make a distinction between Machine Learning and Artificial Intelligence?**
@@ -363,6 +372,6 @@ online resources covering the subjects.
 I followed the approach explored by Russel and Norvig [1]. In that sense, Artificial
 Intelligence is a broader field that encompasses Machine Learning. 
 
-### References
+## References
 
 [1] Russell, S. J., & Norvig, P. (2016). Artificial intelligence: a modern approach. Malaysia; Pearson Education Limited,.
