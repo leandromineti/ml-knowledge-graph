@@ -216,6 +216,7 @@ online resources covering the subjects.
           - Variational autoencoder
       - Recurrent networks
         - LSTM
+        - Hopfield networks
         - Gated Recurrent Unit
         - Neural Turing Machine
         - Attention mechanism
@@ -245,7 +246,7 @@ online resources covering the subjects.
   - Game Theory
   - Cybernetics
     - Control theory
-  - Symbolic
+  - Symbolic AI
     - Logic-based
   - Natural Language Processing
     - Information Retrieval
@@ -260,6 +261,7 @@ online resources covering the subjects.
   - Cognitive sciences
   - Econometrics
   - Jurimetrics
+  - Ising model
 
 ## **Free** resources and references
 
