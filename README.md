@@ -345,6 +345,7 @@ online resources covering the subjects.
 
 - Article: [A Comprehensive Survey on Graph Neural Networks](https://arxiv.org/abs/1901.00596v1)
 - Playlist: [Neural Networks by 3blue1brown](https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- Repository: [MIT Deep Learning](https://github.com/lexfridman/mit-deep-learning)
 - Tool: [A Neural Network Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.54960&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 - Course: [Deep Learning for Coders](https://course.fast.ai/index.html)
 - Course: [Deep Learning for Coders 2](https://course.fast.ai/part2.html)
