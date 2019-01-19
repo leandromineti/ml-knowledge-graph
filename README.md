@@ -5,8 +5,8 @@
 > *Work in progress*
 
 Machine learning emerges from the intersection of many fields of study. Important
-concepts in these fields are related in many ways. The aim with this graph is 
-to highlight the conections between these concepts and, hopefully, help us navigate
+concepts in these areas are related in many ways. The aim with this graph is to 
+highlight the connections between those concepts and, hopefully, help us navigate
 this complex idea space.
 
 The concepts were classified in 7 categories:
@@ -253,6 +253,8 @@ online resources covering the subjects.
   - Decision Theory
     - Utility function
   - Game Theory
+    - Zero-sum game
+      - Minimax
   - Cybernetics
     - Control theory
   - Symbolic AI
