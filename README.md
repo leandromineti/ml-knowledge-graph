@@ -238,6 +238,7 @@ online resources covering the subjects.
     - Boosting
     - Stacking
   - Meta-learning
+  - Sequence models
 - Information Theory
   - Entropy
     - Maximum entropy models
@@ -261,6 +262,7 @@ online resources covering the subjects.
     - Logic-based
   - Natural Language Processing
     - Natural Languange Understanding
+      - Speech recognition
     - Information Retrieval
       - Set-theoretic models
         - Standard Boolean model
