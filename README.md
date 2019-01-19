@@ -265,6 +265,8 @@ online resources covering the subjects.
       - Minimax
   - Cybernetics
     - Control theory
+    - Computer vision
+    - Robotics
   - Symbolic AI
     - Logic-based
   - Natural Language Processing
@@ -291,6 +293,7 @@ online resources covering the subjects.
   - Cognitive sciences
   - Econometrics
   - Jurimetrics
+  - Robotics
   - Statistical physics
     - Hamiltonian mechanics
     - Ising model
