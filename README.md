@@ -278,6 +278,7 @@ online resources covering the subjects.
       - Speech recognition
       - Question answering AI
       - Text summarization
+      - Machine translation
     - Information Retrieval
       - Set-theoretic models
         - Standard Boolean model
