@@ -249,6 +249,13 @@ online resources covering the subjects.
   - Algorithms
     - Computability
       - Church–Turing thesis
+      - Model of computation
+        - Sequential computation models
+          - Finite-state machine
+          - Pushdown automata
+          - Turing machine
+        - Functional computation models
+        - Concurrent computation models
     - Complexity
 - Artificial Intelligence
   - Decision Theory
@@ -261,8 +268,16 @@ online resources covering the subjects.
   - Symbolic AI
     - Logic-based
   - Natural Language Processing
+    - Language model
+      - Unigram model
+      - N-gram model
+        - Neural language model
+    - Text classification
+    - Sentiment analysis
     - Natural Languange Understanding
       - Speech recognition
+      - Question answering AI
+      - Text summarization
     - Information Retrieval
       - Set-theoretic models
         - Standard Boolean model
