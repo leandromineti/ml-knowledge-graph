@@ -268,26 +268,33 @@ online resources covering the subjects.
     - Computer vision
     - Robotics
   - Symbolic AI
-    - Logic-based
+    - Logic-based AI
+      - Automated reasoning
   - Natural Language Processing
     - Language model
       - Unigram model
       - N-gram model
         - Neural language model
-    - Text classification
-    - Sentiment analysis
+    - Topic model
+      - Text classification
+        - Sentiment analysis
     - Natural Languange Understanding
       - Speech recognition
       - Question answering AI
       - Text summarization
       - Machine translation
-    - Information Retrieval
-      - Set-theoretic models
+    - Information Retrieval (IR)
+      - Set-theoretic IR models
         - Standard Boolean model
         - Extended Boolean model
         - Fuzzy retrieval
-      - Algebraic models
-      - Probabilistic models
+      - Algebraic IR models
+      - Probabilistic IR models
+      - Information filtering system
+        - Recommender system
+          - Collaborative filtering
+          - Content-based filtering
+          - Hybrid recommender systems
     - Turing test
 - Other
   - Cognitive sciences
@@ -393,6 +400,7 @@ online resources covering the subjects.
 
 ### Artificial Intelligence
 
+- Article: [Information filtering and information retrieval: two sides of the same coin?](http://maroo.cs.umass.edu/getpdf.php?id=131)
 - Course: [Text as Data](https://cbail.github.io/textasdata/Text_as_Data.html)
 
 ## Contributing
