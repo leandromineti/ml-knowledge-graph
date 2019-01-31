@@ -1,6 +1,6 @@
 # Machine Learning Knowledge Graph
 
-![](cover.png)
+[![Machine Learning Knowledge Graph](cover.png)](https://leandromineti.github.io/ml-knowledge-graph/)
 
 Machine learning emerges from the intersection of many fields of study. Important
 concepts in these areas are related in many ways. The aim with this graph is to 
