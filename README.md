@@ -5,7 +5,7 @@
 Machine learning emerges from the intersection of many fields of study. Important
 concepts in these areas are related in many ways. The aim with this graph is to 
 highlight the connections between those concepts and, hopefully, help us navigate
-this complex idea space. Currently, [the graph has 260 nodes and 347 edges](https://leandromineti.github.io/ml-knowledge-graph/).
+this complex idea space. Currently, [the graph has 269 nodes and 358 edges](https://leandromineti.github.io/ml-knowledge-graph/).
 
 The concepts were classified in 7 categories:
 
@@ -164,10 +164,13 @@ effort was made to put them where they are used more frequently. Besides the int
           - Logistic regression
           - Multinomial regression
     - Bayesian Inference
+      - Sampling Bayesian Methods
+        - MCMC
+          - Hamiltonian Monte Carlo
+      - Approximate Bayesian Methods
+        - Variational inference
+        - Integrated Nested Laplace Approximation
       - Maximum a posteriori estimation
-      - MCMC
-        - Hamiltonian Monte Carlo
-      - Variational inference
     - Probabilistic Graphical Models
       - Bayesian Networks
         - Hidden Markov Models
@@ -274,9 +277,15 @@ effort was made to put them where they are used more frequently. Besides the int
       - Unigram model
       - N-gram model
         - Neural language model
+        - Skip-gram model
     - Topic model
       - Text classification
         - Sentiment analysis
+        - Word representation
+          - Bag-of-words
+          - Word embedding
+            - Word2vec
+            - Latent Semantic Analysis
     - Natural Languange Understanding
       - Speech recognition
       - Question answering AI
