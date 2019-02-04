@@ -5,7 +5,7 @@
 Machine learning emerges from the intersection of many fields of study. Important
 concepts in these areas are related in many ways. The aim with this graph is to 
 highlight the connections between those concepts and, hopefully, help us navigate
-this complex idea space. Currently, [the graph has 261 nodes and 349 edges](https://leandromineti.github.io/ml-knowledge-graph/).
+this complex idea space. Currently, [the graph has 260 nodes and 347 edges](https://leandromineti.github.io/ml-knowledge-graph/).
 
 The concepts were classified in 7 categories:
 
@@ -261,6 +261,7 @@ effort was made to put them where they are used more frequently. Besides the int
   - Game Theory
     - Zero-sum game
       - Minimax
+    - Non-zero-sum game
   - Cybernetics
     - Control theory
     - Computer vision
@@ -296,8 +297,6 @@ effort was made to put them where they are used more frequently. Besides the int
     - Turing test
 - Other
   - Cognitive sciences
-  - Econometrics
-  - Jurimetrics
   - Robotics
   - Statistical physics
     - Hamiltonian mechanics
