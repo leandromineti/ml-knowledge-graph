@@ -5,16 +5,14 @@
 Machine learning emerges from the intersection of many fields of study. Important
 concepts in these areas are related in many ways. The aim with this graph is to 
 highlight the connections between those concepts and, hopefully, help us navigate
-this complex idea space. Currently, [the graph has 269 nodes and 358 edges](https://leandromineti.github.io/ml-knowledge-graph/).
+this complex idea space. Currently, [the graph has 254 nodes and 335 edges](https://leandromineti.github.io/ml-knowledge-graph/).
 
-The concepts were classified in 7 categories:
+The concepts were classified in 5 categories:
 
 - Mathematics
 - Statistics
-- Information Theory
 - Machine Learning
 - Optimization
-- Computer Science
 - Artificial Intelligence
 
 A category called "Other" was added to list important related research areas. 
@@ -24,8 +22,6 @@ effort was made to put them where they are used more frequently. Besides the int
 ## Curriculum 
 
 - Mathematics
-  - Logic
-    - Gödel's incompleteness theorems
   - Set theory
     - Empty set
     - Finite and infinite sets
@@ -226,9 +222,6 @@ effort was made to put them where they are used more frequently. Besides the int
       - Recurrent networks
         - LSTM
         - Hopfield networks
-        - Gated Recurrent Unit
-        - Neural Turing Machine
-        - Attention mechanism
       - Restricted Boltzmann machine
         - Deep Belief Network
       - Graph Neural Networks
@@ -240,76 +233,66 @@ effort was made to put them where they are used more frequently. Besides the int
     - Stacking
   - Meta-learning
   - Sequence models
-- Information Theory
-  - Entropy
-    - Maximum entropy models
-  - Kullback–Leibler divergence
-  - Signal processing
-    - Kalman filter
-- Computer Science
-  - Algorithms
-    - Computability
-      - Church–Turing thesis
-      - Model of computation
-        - Sequential computation models
-          - Finite-state machine
-          - Pushdown automata
-          - Turing machine
-        - Functional computation models
-        - Concurrent computation models
-    - Complexity
 - Artificial Intelligence
-  - Decision Theory
-    - Utility function
-  - Game Theory
-    - Zero-sum game
-      - Minimax
-    - Non-zero-sum game
+  - Symbolic AI
+    - Logic-based AI
+      - Automated reasoning 
+  - Search Problems
+    - Decision Theory
+      - Utility function
+      - Game Theory
+        - Zero-sum game
+          - Minimax
+        - Non-zero-sum game
   - Cybernetics
     - Control theory
     - Computer vision
     - Robotics
-  - Symbolic AI
-    - Logic-based AI
-      - Automated reasoning
-  - Natural Language Processing
-    - Language model
-      - Unigram model
-      - N-gram model
-        - Neural language model
-        - Skip-gram model
-    - Topic model
-      - Text classification
-        - Sentiment analysis
-        - Word representation
-          - Bag-of-words
-          - Word embedding
-            - Word2vec
-            - Latent Semantic Analysis
-    - Natural Languange Understanding
-      - Speech recognition
-      - Question answering AI
-      - Text summarization
-      - Machine translation
-    - Information Retrieval (IR)
-      - Set-theoretic IR models
-        - Standard Boolean model
-        - Extended Boolean model
-        - Fuzzy retrieval
-      - Algebraic IR models
-      - Probabilistic IR models
-      - Information filtering system
-        - Recommender system
-          - Collaborative filtering
-          - Content-based filtering
-          - Hybrid recommender systems
-    - Turing test
+    - Natural Language Processing
+      - Language model
+        - Unigram model
+        - N-gram model
+          - Neural language model
+          - Skip-gram model
+      - Topic model
+        - Text classification
+          - Sentiment analysis
+          - Word representation
+            - Bag-of-words
+            - Word embedding
+              - Word2vec
+              - Latent Semantic Analysis
+      - Natural Languange Understanding
+        - Speech recognition
+        - Question answering AI
+        - Text summarization
+        - Machine translation
+      - Information Retrieval (IR)
+        - Set-theoretic IR models
+          - Standard Boolean model
+          - Extended Boolean model
+          - Fuzzy retrieval
+        - Algebraic IR models
+        - Probabilistic IR models
+        - Information filtering system
+          - Recommender system
+            - Collaborative filtering
+            - Content-based filtering
+            - Hybrid recommender systems
+      - Turing test
 - Other
+  - Complexity Theory
   - Cognitive sciences
   - Robotics
   - Statistical physics
     - Hamiltonian mechanics
     - Ising model
+  - Information Theory
+    - Entropy
+      - Maximum entropy models
+    - Kullback–Leibler divergence
+    - Signal processing
+      - Kalman filter
 
 ## **Free** resources and references
 
@@ -408,15 +391,6 @@ effort was made to put them where they are used more frequently. Besides the int
 
 - Article: [Information filtering and information retrieval: two sides of the same coin?](http://maroo.cs.umass.edu/getpdf.php?id=131)
 - Course: [Text as Data](https://cbail.github.io/textasdata/Text_as_Data.html)
-
-## Contributing
-
-Usually, I search through many sources to look for interesting concept relations. For example, when adding a new node it is useful to see what comes up at [wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) and [metacademy](https://metacademy.org). If you want to contribute, please open an issue stating the following:
-
-- Concept category.
-- Concept name.
-- Which other concepts should it be linked to.
-- References.
 
 ## FAQ
 
