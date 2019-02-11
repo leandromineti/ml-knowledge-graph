@@ -5,7 +5,7 @@
 Machine learning emerges from the intersection of many fields of study. Important
 concepts in these areas are related in many ways. The aim with this graph is to 
 highlight the connections between those concepts and, hopefully, help us navigate
-this complex idea space. Currently, [the graph has 253 nodes and 333 edges](https://leandromineti.github.io/ml-knowledge-graph/).
+this complex idea space. Currently, [the graph has 237 nodes and 306 edges](https://leandromineti.github.io/ml-knowledge-graph/).
 
 The concepts were classified in 5 categories:
 
@@ -29,6 +29,7 @@ effort was made to put them where they are used more frequently. Besides the int
       - Complement
       - Union
       - Intersection
+    - Sigma-algebra
   - Algebra
     - Linear Algebra
       - Matrix transformation
@@ -48,8 +49,6 @@ effort was made to put them where they are used more frequently. Besides the int
     - Fourrier series
       - Fourrier transform
         - Laplace transform
-  - Graph theory
-  - Geometry
   - Topology
     - Algebraic topology
       - Manifolds
@@ -66,8 +65,6 @@ effort was made to put them where they are used more frequently. Besides the int
       - Baum-Welch algorithm
   - Heuristics
     - Evolutionary algorithms
-- Measure theory
-  - Sigma-algebra
 - Probability
   - Sample Space
   - Kolmogorov axioms
@@ -175,7 +172,6 @@ effort was made to put them where they are used more frequently. Besides the int
     - Probabilistic Graphical Models
       - Bayesian Networks
         - Hidden Markov Models
-          - Maximum-entropy Markov model
       - Markov Random Field
         - Boltzmann machine
       - Latent Dirichlet Allocation
@@ -229,7 +225,6 @@ effort was made to put them where they are used more frequently. Besides the int
         - Hopfield networks
       - Restricted Boltzmann machine
         - Deep Belief Network
-      - Graph Neural Networks
   - Adversarial Machine Learning
     - Generative Adversarial Networks
   - Ensemble
@@ -243,22 +238,18 @@ effort was made to put them where they are used more frequently. Besides the int
     - Logic-based AI
       - Automated reasoning 
   - Search Problems
+    - A* search algorithm
     - Decision Theory
-      - Utility function
       - Game Theory
         - Zero-sum game
           - Minimax
         - Non-zero-sum game
   - Cybernetics
-    - Control theory
     - Computer vision
     - Robotics
     - Natural Language Processing
       - Language model
         - Unigram model
-        - N-gram model
-          - Neural language model
-          - Skip-gram model
       - Topic model
         - Text classification
           - Sentiment analysis
@@ -282,14 +273,11 @@ effort was made to put them where they are used more frequently. Besides the int
       - Turing test
 - Other
   - Complexity Theory
-  - Cognitive sciences
-  - Robotics
   - Statistical physics
     - Hamiltonian mechanics
     - Ising model
   - Information Theory
     - Entropy
-      - Maximum entropy models
     - Kullback–Leibler divergence
     - Signal processing
       - Kalman filter
