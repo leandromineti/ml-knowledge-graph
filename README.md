@@ -5,7 +5,7 @@
 Machine learning emerges from the intersection of many fields of study. Important
 concepts in these areas are related in many ways. The aim with this graph is to 
 highlight the connections between those concepts and, hopefully, help us navigate
-this complex idea space. Currently, [the graph has 237 nodes and 306 edges](https://leandromineti.github.io/ml-knowledge-graph/).
+this complex idea space. Currently, [the graph has 206 nodes and 278 edges](https://leandromineti.github.io/ml-knowledge-graph/).
 
 The concepts were classified in 5 categories:
 
