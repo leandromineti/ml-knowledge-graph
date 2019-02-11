@@ -5,7 +5,7 @@
 Machine learning emerges from the intersection of many fields of study. Important
 concepts in these areas are related in many ways. The aim with this graph is to 
 highlight the connections between those concepts and, hopefully, help us navigate
-this complex idea space. Currently, [the graph has 254 nodes and 335 edges](https://leandromineti.github.io/ml-knowledge-graph/).
+this complex idea space. Currently, [the graph has 253 nodes and 333 edges](https://leandromineti.github.io/ml-knowledge-graph/).
 
 The concepts were classified in 5 categories:
 
@@ -54,6 +54,11 @@ effort was made to put them where they are used more frequently. Besides the int
     - Algebraic topology
       - Manifolds
 - Optimization
+  - Combinatorial Optimization
+    - Branch and Bound 
+  - Convex Optimization
+    - Linear Programming
+      - Simplex
   - Iterative methods
     - Newton's method
     - Gradient descent
@@ -268,11 +273,6 @@ effort was made to put them where they are used more frequently. Besides the int
         - Text summarization
         - Machine translation
       - Information Retrieval (IR)
-        - Set-theoretic IR models
-          - Standard Boolean model
-          - Extended Boolean model
-          - Fuzzy retrieval
-        - Algebraic IR models
         - Probabilistic IR models
         - Information filtering system
           - Recommender system
